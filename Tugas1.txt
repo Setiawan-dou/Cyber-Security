@@ -1,0 +1,9 @@
+1. Keamanan siber menjadi sangat penting di era digital karena pada era ini hampir semua data sudah berbentuk digital. Data berbentuk digital bisa sangat aman namun juga bisa sangat rentan untuk dicuri, terlebih untuk data sensitif baik itu individu ataupun organisasi. Setidaknya ilmu keamanan siber sangat penting untuk perlindungan data pribadi. Pada tahap yang lebih advance, keamanan siber juga sangat dibutuhkan untuk melindungi data pada skala yang lebih besar seperti data perusahaan dan institusi penting lain. Menjaga data terlebih data sensitif bisa menjaga privasi, stabilitas, dan keberlangsungan pada sebuah organisasi dan institusi.
+
+2. Red Team pada dunia keamanan siber berarti sebuah tim yang dibentuk untuk menyerang sebuah sistem dengan tujuan mencari kelemahan dan celah pada sistem yang diserang. Red team juga bertugas untuk mengevaluasi keamanan sistem berdasarkan hasil dari simulasi serangan yang telah dilakukan.
+
+3. Berbeda dengan red team, blue team bertugas untuk mencegah serangan dan melindungi sistem. Blue team bekerja dengan melakukan konfigurasi keamanan, membuat sistem pencegahan serangan, pencatatan serangan, dan pemulihan sistem pasca serangan.
+
+4. Penetrasi dalam konteks keamanan siber adalah sebuah usaha untuk mencari celah keamanan dan kelemahan sistem. Hal ini bertujuan untuk membuat sebuah evaluasi pada sistem agar sistem menjadi lebih aman.
+
+5. Kebijakan dan prosedur keamanan memiliki peran untuk mengidentifikasi risiko, panduan teknis pencegahan, dan manajemen risiko. Kebijakan dan prosedur keamanan menjadi penting karena setiap hal sudah diatur secara terstruktur sehingga pengendalian keamanan sistem menjadi lebih baik.
